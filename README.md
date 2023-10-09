@@ -68,4 +68,4 @@
 
 <!--
 [![](https://visitcount.itsvg.in/api?id=emilioanastacio&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)-->
-
+[![](https://visitcount.itsvg.in/api?id=emilioanastacio&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
